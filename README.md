@@ -1,5 +1,5 @@
 # Long term transmission chains fueling the drug-resistant tuberculosis burden in Southern Brazil
-Supplementar methods and results to the manusctipt Long-term transmission chains fueling the drug-resistant tuberculosis burden in Southern Brazil
+Supplementar methods to the manusctipt Long-term transmission chains fueling the drug-resistant tuberculosis burden in Southern Brazil
 
 
 # TB-SIMEX analysis — transmitted versus acquired rifampicin resistance
